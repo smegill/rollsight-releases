@@ -6,7 +6,7 @@
 
 **[Go to Releases](https://github.com/smegill/rollsight-releases/releases)** to download the latest installer:
 
-- **macOS:** `Rollsight-X.X.X-macos-arm64.dmg` – Apple Silicon; `Rollsight-X.X.X-macos-intel.dmg` – Intel Macs
+- **macOS:** `Rollsight-X.X.X-macos-intel.dmg` – Intel Macs (Apple Silicon runs under Rosetta)
 - **Windows:** `Rollsight-Setup-X.X.X.exe`
 - **Browser extension:** `Rollsight-Browser-Extension-X.X.X.zip` – for VTT integration
 
